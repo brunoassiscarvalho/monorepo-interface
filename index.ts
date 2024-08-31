@@ -1,3 +1,2 @@
-
-import IExemple from "./src/exemple"
-export {IExemple } 
+export * as Const from './src/const'
+export * from './src/interfaces'

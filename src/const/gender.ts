@@ -1,0 +1,31 @@
+const genders = [
+  "Male",
+  "Female",
+  "Non-Binary",
+  "Genderqueer",
+  "Genderfluid",
+  "Agender",
+  "Bigender",
+  "Demiboy",
+  "Demigirl",
+  "Transgender",
+  "Cisgender",
+  "Two-Spirit",
+  "Androgynous",
+  "Gender Non-Conforming",
+  "Intersex",
+  "Neutrois",
+  "Pangender",
+  "Polygender",
+  "Third Gender",
+  "Genderflux",
+  "Gender Apathetic",
+  "Maverique",
+  "Omnigender",
+  "Genderfae",
+  "Genderfaun",
+  "Aliagender",
+  "Aporagender"
+]
+
+export default genders;
